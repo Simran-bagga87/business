@@ -5,7 +5,7 @@
 
 /**
  * copyright 2022 codewithsadee
- */
+ 
 
 
 
@@ -1266,6 +1266,7 @@
   .footer-bottom {
     background: var(--raisin-black-2);
     padding-block: 25px;
+    colo:white;
   }
   
   .copyright {
